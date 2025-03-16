@@ -1,16 +1,15 @@
 # Bark
 
-*Bark* is a mod for the VR game Gorilla Tag. It allows the player to summon a 3D interface into the game that toggles various fun/useful mechanics on and off. Because it is only enabled in modded lobbies, this mod is safe to use online.
+*The Best Mod Menu* is a mod for the VR game Gorilla Tag. It allows the player to summon a 3D interface into the game that toggles various fun/useful mechanics on and off. Because it is only enabled in modded lobbies, this mod is safe to use online.
 
-[![Mod Showcase Link](https://img.youtube.com/vi/geyMo9pVSEE/0.jpg)](https://www.youtube.com/watch?v=geyMo9pVSEE)
+
 
 ## Links
 
-* Discord: https://discord.com/invite/K79j2arExP
-* YouTube: https://www.youtube.com/@kylethescientist
-
+* Discord: https://discord.gg/SA2pGBcs
+* YouTube: https://youtube.com/@cookiegamershorts?si=bBLNJzUUFtjyc77T
 ## Features
-*Bark* has various modules that can be toggled on and off, including:
+*The Best Mod Menu* has various modules that can be toggled on and off, including:
 
 ### Movement
 * `Airplane` - This allows the player to fly around. **Spread your arms out like and airplane** to activate and use your wrists to steer!
@@ -69,7 +68,7 @@ If you would like to contribute to *Bark*, feel free to submit a pull request on
 
 ## Credits
 *Bark* was created by KyleTheScientist. 
-Thanks to the Gorilla Tag modding community for their support.
-Special thanks to my little brother Asher for helping me test :)
 
-* [Boxing Gloves model](https://skfb.ly/6XOUS) by Gohar.Munir is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+IMPORTANT NOTES: 
+1: Do not use in public lobbies or you may get banned.
+2: Have fun
